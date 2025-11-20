@@ -1,3 +1,0 @@
-rating.csv filter=lfs diff=lfs merge=lfs -text
-rating_1m.csv filter=lfs diff=lfs merge=lfs -text
-rating._10m.csv filter=lfs diff=lfs merge=lfs -text
